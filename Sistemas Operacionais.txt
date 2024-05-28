@@ -1,0 +1,7 @@
+Sistemas Operacionais
+  
+Um sistema operacional é um software ou conjunto de softwares que administra e gerencia os recursos de um sistema, incluindo componentes de hardware, sistemas de arquivos e programas de terceiros. Ele estabelece a interface entre o computador e o usuário. Basicamente, o sistema operacional é responsável por traduzir comandos do mouse, teclado e solicitações do sistema (como gerenciamento de recursos da CPU e memória RAM) em linguagem de máquina, enviando instruções ao processador.
+
+Definição: O sistema operacional é o protocolo operacional básico do computador, coordenando funções como comunicação, processamento e interface do usuário.
+
+Exemplos: Alguns dos mais usados em computadores são o Windows, da Microsoft, o macOS, da Apple, e o Linux, de código aberto. Em celulares, Android e iOS são exemplos de sistemas operacionais populares. Todos esses softwares realizam tarefas para garantir o bom funcionamento dos aparelhos, mas existem diferentes tipos de sistema operacional.
